@@ -8,11 +8,13 @@ What I've leearned from coding here:
 
 This is how the program works. The shuffle button changes the sizes of the elements randomly. The merge button merges all elements in sorted order.
 
+![merging](https://user-images.githubusercontent.com/76811860/147196615-f5f36ed3-eeeb-445e-ad36-812a73171942.gif)
 
 The Length +, Length -, Speed +, Speed -, change the number of blocks and the speed of execution respectively.
 
-<img src="![lengthSize](https://user-images.githubusercontent.com/76811860/147196377-3da99b47-9c4e-4cbe-8e65-523a8de1bbb8.gif)" width="250" height="250"/>
+![lengthSize](https://user-images.githubusercontent.com/76811860/147196377-3da99b47-9c4e-4cbe-8e65-523a8de1bbb8.gif)
 
 You can also remove the Visualization of the Auxiliary Array by commenting out two lines of code, so  the result will look like this:
 
+![noAuxiliary](https://user-images.githubusercontent.com/76811860/147196624-33906cbb-d475-404d-8a37-eb97dfb55e1e.gif)
 
