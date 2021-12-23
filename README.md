@@ -18,3 +18,8 @@ You can also remove the Visualization of the Auxiliary Array by commenting out t
 
 ![noAuxiliary](https://user-images.githubusercontent.com/76811860/147196624-33906cbb-d475-404d-8a37-eb97dfb55e1e.gif)
 
+Contact me if you want to know how to remove the aux.array and make the visualization like on the last GIF.
+
+
+Thank you for the support!
+Feel free to copy the code and use it for your uni/school projects ;)
