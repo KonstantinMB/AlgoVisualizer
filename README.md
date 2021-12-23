@@ -10,7 +10,8 @@ This is how the program works. The shuffle button changes the sizes of the eleme
 
 
 The Length +, Length -, Speed +, Speed -, change the number of blocks and the speed of execution respectively.
-![lengthSize](https://user-images.githubusercontent.com/76811860/147196377-3da99b47-9c4e-4cbe-8e65-523a8de1bbb8.gif)
+
+<img src="![lengthSize](https://user-images.githubusercontent.com/76811860/147196377-3da99b47-9c4e-4cbe-8e65-523a8de1bbb8.gif)" width="250" height="250"/>
 
 You can also remove the Visualization of the Auxiliary Array by commenting out two lines of code, so  the result will look like this:
 
